@@ -4,7 +4,10 @@
 
 Rol: Data Analyst
 
-![](https://www.bsebti.com/blog/wp-content/uploads/2022/03/DABI-816x434.jpg)
+
+<p align="center">
+<img src="https://www.bsebti.com/blog/wp-content/uploads/2022/03/DABI-816x434.jpg"  height=300>
+</p>
 
 
 Consigna: 

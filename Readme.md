@@ -5,7 +5,7 @@
 Rol: Data Analyst
 
 
-<img src="https://www.bsebti.com/blog/wp-content/uploads/2022/03/DABI-816x434.jpg"  height=300>
+<img src="https://www.bsebti.com/blog/wp-content/uploads/2022/03/DABI-816x434.jpg" >
 
 
 

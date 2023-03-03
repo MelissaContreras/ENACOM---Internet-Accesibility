@@ -4,9 +4,15 @@
 
 Rol: Data Analyst
 
+<<<<<<< HEAD
+---
+
+<center><img src = 'logo enacom.jpg' ><p></center>
+=======
 
 <img src="https://github.com/MelissaContreras/ENACOM---Internet-Accesibility/blob/main/Conexion-Internet.jpg?raw=true" >
 
+>>>>>>> 44f5112a256b435bab3ab23e227d4b0961a53794
 
 
 Consigna: 
@@ -60,6 +66,8 @@ En este contexto, ENACOM una empresa prestadora de servicios de telecomunicacion
 --->
  --->
   --->
+
+
 
 ## Desarrollando nuestro enfoque
 

@@ -64,12 +64,20 @@ En este contexto, ENACOM una empresa prestadora de servicios de telecomunicacion
 ## Desarrollando nuestro enfoque
 
 ---
- En el 2022 su crecimiento mundial fue de un 4% en 2022, el número de usuarios de
+ En el 2022 su crecimiento mundial de consumo fue de un 4% en 2022, el número de usuarios de
  internet en el mundo alcanzó los 4,950 millones de personas, lo que representa al 62,5% de la población mundial.
+ Siendo Argentina quien ocupa el tercer lugar con 38.02 millones.
+ 
+ Según la Organización Internacional del Trabajo durante el segundo trimestre del 2020 en Argentina se pudo visualizar 23 millones de teletrabajos que representan entre el 20-30% de los asalariados que estuvieron efectivamente trabajando, lo hicieron desde sus domicilios durante la vigencia de las medidas de confinamiento.
+En 2019 esa cifra era inferior al 3 por ciento.
 
  El acceso a Internet ha ido en crecimiento causando gran impacto en nuestro día  a día
 ha transformado la manera en que nos comunicamos (redes sociales), 
 aprendemos(educación online) y trabajamos (teletrabajo). 
+
+## Alcance del Estudio
+
+Realicé un modelo de machine learning de predicción para observar los ingresos futuros del consumo de internet fijo en la entidad de ENACOM con los datos desde el 2014 hasta el primer trimestre del 2022 para calcular la tendencia en los siguientes dos años.
 
 
 

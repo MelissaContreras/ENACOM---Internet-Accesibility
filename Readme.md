@@ -4,15 +4,11 @@
 
 Rol: Data Analyst
 
-<<<<<<< HEAD
+<<
 ---
 
 <center><img src = 'logo enacom.jpg' ><p></center>
 =======
-
-<img src="https://github.com/MelissaContreras/ENACOM---Internet-Accesibility/blob/main/Conexion-Internet.jpg?raw=true" >
-
->>>>>>> 44f5112a256b435bab3ab23e227d4b0961a53794
 
 
 Consigna: 
@@ -60,7 +56,7 @@ En este contexto, ENACOM una empresa prestadora de servicios de telecomunicacion
  --->
   --->
 
-
+<img src="https://github.com/MelissaContreras/ENACOM---Internet-Accesibility/blob/main/Conexion-Internet.jpg?raw=true" >
 
 
 --->
@@ -72,6 +68,10 @@ En este contexto, ENACOM una empresa prestadora de servicios de telecomunicacion
 ## Desarrollando nuestro enfoque
 
 ---
+
+ El acceso a Internet ha ido en crecimiento causando gran impacto en nuestro día  a día ha transformado la manera en que nos comunicamos (redes sociales), 
+aprendemos(educación online) y trabajamos (teletrabajo). 
+
  En el 2022 su crecimiento mundial de consumo fue de un 4% en 2022, el número de usuarios de
  internet en el mundo alcanzó los 4,950 millones de personas, lo que representa al 62,5% de la población mundial.
  Siendo Argentina quien ocupa el tercer lugar con 38.02 millones.
@@ -79,9 +79,7 @@ En este contexto, ENACOM una empresa prestadora de servicios de telecomunicacion
  Según la Organización Internacional del Trabajo durante el segundo trimestre del 2020 en Argentina se pudo visualizar 23 millones de teletrabajos que representan entre el 20-30% de los asalariados que estuvieron efectivamente trabajando, lo hicieron desde sus domicilios durante la vigencia de las medidas de confinamiento.
 En 2019 esa cifra era inferior al 3 por ciento.
 
- El acceso a Internet ha ido en crecimiento causando gran impacto en nuestro día  a día
-ha transformado la manera en que nos comunicamos (redes sociales), 
-aprendemos(educación online) y trabajamos (teletrabajo). 
+
 
 ## Alcance del Estudio
 
